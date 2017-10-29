@@ -1,0 +1,22 @@
+[
+  {
+    "owner": "Bob",
+    "animal": "dog",
+    "name": "Spot"
+  },
+  {
+    "owner": "Alice",
+    "animal": "iguana",
+    "name": "Sally"
+  },
+  {
+    "owner": "Albert",
+    "animal": "cat",
+    "name": "Vincent"
+  },
+  {
+    "owner": "Sylvia",
+    "animal": "dog",
+    "name": "Tiny"
+  }
+]
