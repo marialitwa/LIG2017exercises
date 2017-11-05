@@ -1,5 +1,7 @@
 
 function printPets(pets) {
+    console.log("owner" has a "animal" named "name")
+}
     /**
      * Fill in this part!
      *
