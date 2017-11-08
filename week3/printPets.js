@@ -13,6 +13,10 @@ function printPets(pets) {
       */
 
     // TODO: your code goes here
+    
+    var pet = pets[0];
+    console.log(pet); 
+    
 }
 
 // Here we are loading a function in order to read the contents of pets.json
