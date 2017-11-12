@@ -14,6 +14,37 @@ function printPets(pets) {
 
     // TODO: your code goes here
 
+<!DOCTYPE html>
+    <html>
+    <head>
+    <title>Pets</title>
+
+    </head>
+    <body>
+    <script type="text/javascript">
+
+    var owner = ["Bob", "Alice", "Albert", "Sylvia"];
+
+    var pet = ["dog", "iguana", "cat", "dog"];
+
+    var names = ["Spot", "Sally", "Vincent", "Tiny"];
+
+    console.log(owner, pet, names);
+
+
+    document.write(owner[0] + " has a " + pet[0] + " named " + names[0] + ".<br>");
+
+    document.write(owner[1] + " has an " + pet[1] + " named " + names[1] + ".<br>");
+
+    document.write(owner[2] + " has a " + pet[2] + " named " + names[2] + ".<br>");
+
+    document.write(owner[3] + " has a " + pet[3] + " named " + names[3] + ".<br>");
+
+
+</script>
+    </body>
+    </html>
+
 }
 
 // Here we are loading a function in order to read the contents of pets.json
